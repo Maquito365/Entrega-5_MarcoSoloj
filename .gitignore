@@ -1,0 +1,11 @@
+# Archivos de Build Server Protocol (Scala CLI)
+.bsp/
+
+# Archivos de caché y configuración de la extensión Metals
+.metals/
+
+# Archivos compilados y entorno de ejecución de Scala (incluye Bloop y los .class)
+.scala-build/
+
+# Configuraciones locales de Visual Studio Code
+.vscode/
